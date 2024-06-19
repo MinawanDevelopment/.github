@@ -1,12 +1,15 @@
-## Hi there 👋
+# Welcome to the Minawan Development Github Page!
 
-<!--
+THIS ORG IS A FANMADE ORG AND IS NOT OWNED OR AFFILIATED WITH CERBER IN ANY WAY.
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Our plans and goals
+
+- Start working on a fully release for Minawan The Game.
+- Add some better modding support to [Minawan Land](https://github.com/MinawanDevelopment/MinawanLand)
+- Potential dress up game for the Minawan sprite???
+
+
+# Team Introduction
+
+Hexawan - Hey! I made the [Minawan Land](https://github.com/MinawanDevelopment/MinawanLand) app which allows you to have minawan on your OBS stream or really anywhere.
