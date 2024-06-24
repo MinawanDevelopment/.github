@@ -8,7 +8,7 @@ THIS ORG IS A FANMADE ORG AND IS NOT OWNED OR AFFILIATED WITH CERBER IN ANY WAY.
 - Start working on a fully release for Minawan The Game.
 - Add some better modding support to [Minawan Land](https://github.com/MinawanDevelopment/MinawanLand)
 - Potential dress up game for the Minawan sprite???
-
+- Release Hungry Puppy
 
 # Team Introduction
 
